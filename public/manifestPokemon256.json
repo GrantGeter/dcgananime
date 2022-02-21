@@ -1,0 +1,6 @@
+{
+    "description": "Model to generate waifus",
+    "model": "./pokemon256/model.json",
+    "modelSize": 256,
+    "modelLatentDim": 128
+}

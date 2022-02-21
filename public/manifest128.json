@@ -1,0 +1,6 @@
+{
+    "description": "Model to generate waifus",
+    "model": "./128/model.json",
+    "modelSize": 128,
+    "modelLatentDim": 128
+}
